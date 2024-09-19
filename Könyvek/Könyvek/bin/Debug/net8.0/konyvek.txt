@@ -1,0 +1,29 @@
+A kis herceg,Antoine de Saint-Exupéry,1943,96,Fantasy
+1984,George Orwell,1949,328,Disztópia
+A Gyűrűk Ura,J.R.R. Tolkien,1954,1178,Fantasy
+Harry Potter és a bölcsek köve,J.K. Rowling,1997,223,Fantasy
+A szürke ötven árnyalata,E.L. James,2011,514,Romantika
+A katedrális,Ken Follett,1989,973,Történelmi regény
+Tüskevár,Fekete István,1957,268,Kaland
+A Da Vinci-kód,Dan Brown,2003,454,Krimi
+Az Alchemist,Paulo Coelho,1988,208,Fikció
+Száz év magány,Gabriel García Márquez,1967,417,Magical Realism
+A rettenthetetlen,Ken Follett,1995,400,Történelmi regény
+Moby Dick,Herman Melville,1851,635,Klasszikus
+Frankenstein,Mary Shelley,1818,280,Horror
+Az elveszett világ,Sir Arthur Conan Doyle,1912,350,Kaland
+A nyomorultak,Victor Hugo,1862,1463,Klasszikus
+Jane Eyre,Charlotte Brontë,1847,532,Klasszikus
+Büszkeség és balítélet,Jane Austen,1813,432,Klasszikus
+Az éhezők viadala,Suzanne Collins,2008,374,Disztópia
+A kódfejtő,Ken Follett,1997,784,Történelmi regény
+A trónok harca,George R.R. Martin,1996,694,Fantasy
+Az árnyak és csontok,Leigh Bardugo,2012,358,Fantasy
+A szél árnyéka,Carlos Ruiz Zafón,2001,545,Fikció
+Az időutazó felesége,Audrey Niffenegger,2003,546,Romantika
+Az út,Cormac McCarthy,2006,287,Disztópia
+Állatfarm,George Orwell,1945,112,Disztópia
+Szerelem a kolera idején,Gabriel García Márquez,1985,348,Magical Realism
+A boszorkányok,Aldous Huxley,1962,400,Horror
+Fahrenheit 451,Ray Bradbury,1953,158,Disztópia
+Az öreg halász és a tenger,Ernest Hemingway,1952,127,Klasszikus

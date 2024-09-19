@@ -1,0 +1,15 @@
+C:\Users\monus.bence\source\repos\Könyvek\Könyvek\bin\Debug\net8.0\Könyvek.exe
+C:\Users\monus.bence\source\repos\Könyvek\Könyvek\bin\Debug\net8.0\Könyvek.deps.json
+C:\Users\monus.bence\source\repos\Könyvek\Könyvek\bin\Debug\net8.0\Könyvek.runtimeconfig.json
+C:\Users\monus.bence\source\repos\Könyvek\Könyvek\bin\Debug\net8.0\Könyvek.dll
+C:\Users\monus.bence\source\repos\Könyvek\Könyvek\bin\Debug\net8.0\Könyvek.pdb
+C:\Users\monus.bence\source\repos\Könyvek\Könyvek\obj\Debug\net8.0\Könyvek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monus.bence\source\repos\Könyvek\Könyvek\obj\Debug\net8.0\Könyvek.AssemblyInfoInputs.cache
+C:\Users\monus.bence\source\repos\Könyvek\Könyvek\obj\Debug\net8.0\Könyvek.AssemblyInfo.cs
+C:\Users\monus.bence\source\repos\Könyvek\Könyvek\obj\Debug\net8.0\Könyvek.csproj.CoreCompileInputs.cache
+C:\Users\monus.bence\source\repos\Könyvek\Könyvek\obj\Debug\net8.0\Könyvek.dll
+C:\Users\monus.bence\source\repos\Könyvek\Könyvek\obj\Debug\net8.0\refint\Könyvek.dll
+C:\Users\monus.bence\source\repos\Könyvek\Könyvek\obj\Debug\net8.0\Könyvek.pdb
+C:\Users\monus.bence\source\repos\Könyvek\Könyvek\obj\Debug\net8.0\Könyvek.genruntimeconfig.cache
+C:\Users\monus.bence\source\repos\Könyvek\Könyvek\obj\Debug\net8.0\ref\Könyvek.dll
+C:\Users\monus.bence\source\repos\Könyvek\Könyvek\bin\Debug\net8.0\konyvek.txt
